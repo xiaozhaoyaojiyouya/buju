@@ -1,0 +1,58 @@
+.zhong {
+	background-color: #999;
+	padding: 0px;
+	height: 800px;
+	width: 100%;
+}
+.zhong {
+	background-color: #666;
+	padding: 0px;
+	height: 800px;
+	width: 100%;
+}
+.header {
+	background-color: #FC3;
+	padding: 0px;
+	height: 200px;
+	width: 100%;
+	margin-bottom: 20px;
+}
+.erdakuai {
+	background-color: #09F;
+	margin: 0px;
+	padding: 0px;
+	height: 400px;
+	width: 100%;
+}
+#left {
+	background-color: #333;
+	padding: 0px;
+	height: 400px;
+	width: 20%;
+}
+#di {
+	background-color: #600;
+	float: left;
+	height: 180px;
+	width: 100%;
+	margin-top: 20px;
+}
+.left {
+	background-color: #333;
+	float: left;
+	height: 400px;
+	width: 100%;
+}
+.leftce {
+	background-color: #333;
+	float: left;
+	height: 400px;
+	width: 20%;
+}
+.rightce {
+	background-color: #333;
+	float: left;
+	height: 400px;
+	width: 79%;
+	margin-left: 1%;
+}
